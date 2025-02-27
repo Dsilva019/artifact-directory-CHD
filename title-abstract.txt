@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+An Adversarial Framework for Mitigating Gender Bias in Coronary Heart Disease Prediction
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+    This study investigates the mitigation of gender bias in machine learning models for Coronary Heart Disease (CHD) diagnosis. Utilizing data from the National Health and Nutrition Survey (NHANES), we develop a neural network (NN) model employing an adversarial configuration to address disparities in CHD prediction. The primary NN model for CHD classification is coupled with a secondary discriminator model designed to penalize gender-based biases. Our results demonstrate a significant reduction in bias compared to conventional approaches while maintaining clinically relevant accuracy. Although a marginal decrease in overall predictive performance was observed, the model's efficiency remained comparable to existing methodologies. This research contributes to the growing body of literature on the ethical use of artificial intelligence and machine learning in healthcare, offering a novel approach to mitigating demographic biases in cardiovascular disease diagnostics. The findings suggest potential for improving equitable healthcare outcomes, particularly for underrepresented patient populations in CHD diagnosis and treatment.
